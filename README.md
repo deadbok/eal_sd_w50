@@ -25,11 +25,11 @@ stores the e-mail data on the database server (SrvDB01). Illustration 1
 shows this as a communication diagram and Illustration 2 shows the
 sequence diagram.
 
-![Illustration 1: Initial TCP handshake communication diagram](8.16_communication_diagram.svg)
+![Illustration 1: Initial TCP handshake communication diagram](8.16_communication_diagram.png)
 
 *Illustration 1: Initial TCP handshake communication diagram*
 
-![Illustration 2: Initial TCP handshake sequence diagram](8.16_sequence_diagram.svg)
+![Illustration 2: Initial TCP handshake sequence diagram](8.16_sequence_diagram.png)
 
 *Illustration 1: Initial TCP handshake sequence diagram*
 
