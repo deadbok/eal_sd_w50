@@ -35,8 +35,7 @@ sequence diagram.
 
 ## 8.17 ##
 
-Illustration 1 shows a communication diagram and Illustration 2 shows
-the sequence diagram of a pin request
+Illustration 1 shows a communication diagram.
 
 ![Illustration 1: Pinging google.com](15492481_10211669549476885_5836519353491082441_n.jpg)
 
